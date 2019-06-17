@@ -1,0 +1,7 @@
+.nav-bar { 
+    display: flex;
+    background-color: bisque;
+    justify-content: space-around;
+    
+
+}
